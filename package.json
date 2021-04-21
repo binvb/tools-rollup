@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "insert try catch into your project width rollup.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binvb/tools-rollup/tree/master"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
